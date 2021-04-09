@@ -1,4 +1,4 @@
 # hello-world
 First Repository.
 
-My first commit and merging of branch.
+My first commit and  first merging of two branches.
